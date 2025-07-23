@@ -43,4 +43,4 @@ This is a clean, professional multi‑page catalog website developed for **Metro
     npm install
 3. **Run the development server**
     npm run dev
-4. **Open http://localhost:5173 in your browser to view the site.**
+4. **Open http://localhost:5173/ in your browser to view the site.**
